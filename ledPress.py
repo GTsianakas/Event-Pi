@@ -1,5 +1,5 @@
-#This software was created by George Tsianakas giorgostsianakas@hotmail.com and is freely available to anyone
-#by using this software or parts of it you agree that any damage caused directly or indirectly by using it is your rensponsibility alone.
+#This software was created by George Tsianakas giorgostsianakas@hotmail.com and is under GPL v3 licence
+
 #verson 0.1
 
 #thing to be fixed and added soon
@@ -8,8 +8,6 @@
 
 #future
 #add support for servos and motors 
-
-#note the reasoning behind curses is to allow control over ssh and keep it simple overall for educational purposes
 
 import time
 import curses
