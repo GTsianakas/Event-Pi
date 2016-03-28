@@ -1,7 +1,7 @@
 # Event-Pi
 Created by Georgios Tsianakas https://github.com/GTsianakas giorgostsianakas@hotmail.com
 
-This project aims to become an event based python library for Raspberry pi GPIO using python and curses to allow simple network support over ssh
+This project aims to become an event based python library for Raspberry pi GPIO using python and curses to allow simple network support over ssh and have a library to use gpio pins and basic events and algorithms easly 
 
 The project is still in a very early stage and would propably be re-writen at a point to become a real library rather than a script
 
